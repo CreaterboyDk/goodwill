@@ -298,6 +298,10 @@ p {
     box-sizing: border-box;
     font-size: 20px;
     color: #ffff;
+    text-align: left;
+}
+.service-col h3{
+    margin-bottom: 10px;
 }
 .service-col :hover {
     box-shadow: 0 0 20px rgba(4, 9, 30, 0.356);
@@ -413,12 +417,6 @@ border: 1px solid grey;
     width: 100%;
     height: 350px;
 }
-
-/* .facilities-col h3 {
-    margin-top: 16px;
-    margin-bottom: 15px;
-    text-align: left;
-} */
 
 
 /* ----------- testimonials --------------  */
@@ -553,10 +551,8 @@ border: 1px solid grey;
 }
 
 .contact-us {
-    /* padding: 6px; */
     width: 100%;
     margin: 25px 0;
-    /* background-color: aquamarine; */
     background: #2e375fd1;
 }
 
